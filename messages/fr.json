@@ -1,0 +1,218 @@
+{
+ "meta": {
+  "title": "Basma — Coran et soutien scolaire",
+  "description": "Basma propose l'apprentissage du Coran pour tous les âges et un soutien scolaire pour le primaire, le moyen et le secondaire en Algérie."
+ },
+ "nav": {
+  "home": "Accueil",
+  "about": "À propos",
+  "programs": "Programmes",
+  "register": "Inscription",
+  "contact": "Contact",
+  "lang": "العربية",
+  "theme": "Changer de thème"
+ },
+ "common": {
+  "discover": "Découvrir les programmes",
+  "registerNow": "S'inscrire",
+  "contactUs": "Nous contacter"
+ },
+ "home": {
+  "heroTitle": "Laissez votre empreinte dans le savoir.",
+  "heroSub": "Basma accompagne chacun dans l'apprentissage du Coran et propose un soutien scolaire du primaire au secondaire.",
+  "introTitle": "Une académie à taille humaine, tournée vers la progression.",
+  "introText": "Basma réunit deux activités : l'enseignement du Coran, ouvert à tous sans distinction d'âge ni de sexe, et le soutien scolaire pour les élèves de tous les cycles.",
+  "missionTitle": "Notre mission",
+  "missionText": "Offrir un cadre bienveillant où chaque apprenant avance à son rythme, avec un accompagnement adapté à son niveau et à ses objectifs.",
+  "programsTitle": "Deux parcours, un même souci de qualité",
+  "quran": {
+   "title": "Enseignement du Coran",
+   "text": "Pour les enfants, adolescents, adultes et seniors.",
+   "items": [
+    "Lecture et récitation",
+    "Mémorisation (Hifz)",
+    "Tajwid et prononciation",
+    "Programmes adaptés au niveau et au rythme"
+   ]
+  },
+  "academic": {
+   "title": "Soutien scolaire",
+   "text": "Un accompagnement pour réussir à chaque étape de la scolarité.",
+   "items": [
+    "Primaire",
+    "Moyen",
+    "Secondaire",
+    "Matières et groupes selon le programme en cours"
+   ]
+  },
+  "whyTitle": "Pourquoi choisir Basma ?",
+  "why": [
+   {
+    "t": "Un cadre accueillant",
+    "d": "Un environnement serein où chacun se sent à l'aise pour apprendre."
+   },
+   {
+    "t": "Des programmes adaptés",
+    "d": "Des parcours pensés selon le niveau et le rythme de chaque apprenant."
+   },
+   {
+    "t": "Un encadrement pédagogique",
+    "d": "Un suivi attentif pour guider l'apprenant tout au long du parcours."
+   },
+   {
+    "t": "La qualité avant tout",
+    "d": "Priorité à la qualité de l'apprentissage et à la progression réelle."
+   },
+   {
+    "t": "Tous les âges",
+    "d": "Des programmes ouverts aux enfants, adolescents, adultes et seniors."
+   }
+  ],
+  "stepsTitle": "S'inscrire en trois étapes",
+  "steps": [
+   "Choisissez un programme.",
+   "Envoyez votre demande d'inscription.",
+   "L'académie vous contacte pour confirmer les disponibilités et les détails."
+  ],
+  "ctaTitle": "Prêt à commencer votre parcours ?",
+  "ctaText": "Envoyez votre demande : nous vous recontactons pour vous présenter les disponibilités actuelles.",
+  "contactTitle": "Nous contacter"
+ },
+ "about": {
+  "title": "À propos de Basma",
+  "intro": "Basma est une académie algérienne dédiée à l'enseignement du Coran et au soutien scolaire.",
+  "missionTitle": "Mission",
+  "mission": "Accompagner chaque apprenant avec sérieux et bienveillance, selon son niveau et ses objectifs.",
+  "visionTitle": "Vision",
+  "vision": "Devenir une référence d'apprentissage où la qualité et la progression passent avant tout.",
+  "philosophyTitle": "Philosophie éducative",
+  "philosophy": "Chacun apprend à son rythme. Notre rôle est d'adapter le parcours à la personne, et non l'inverse.",
+  "valuesTitle": "Nos valeurs",
+  "values": [
+   {
+    "t": "Bienveillance",
+    "d": "Un accueil chaleureux et respectueux pour tous."
+   },
+   {
+    "t": "Sérieux",
+    "d": "Un travail rigoureux et un suivi attentif."
+   },
+   {
+    "t": "Adaptation",
+    "d": "Des parcours ajustés à chaque niveau."
+   },
+   {
+    "t": "Progression",
+    "d": "Mesurer l'avancée réelle de chaque apprenant."
+   }
+  ]
+ },
+ "programs": {
+  "title": "Nos programmes",
+  "intro": "Deux activités pour accompagner l'apprentissage, du premier verset aux examens scolaires.",
+  "quranTitle": "Enseignement du Coran",
+  "quranText": "Ouvert à tous, sans distinction d'âge ni de sexe : enfants, adolescents, adultes et seniors.",
+  "quranItems": [
+   {
+    "t": "Lecture et récitation",
+    "d": "Apprendre à lire et réciter correctement."
+   },
+   {
+    "t": "Mémorisation (Hifz)",
+    "d": "Un parcours de mémorisation adapté au rythme de chacun."
+   },
+   {
+    "t": "Tajwid",
+    "d": "Améliorer la prononciation et maîtriser les règles de récitation."
+   },
+   {
+    "t": "Tous les âges",
+    "d": "Des programmes pour chaque tranche d'âge et chaque niveau."
+   }
+  ],
+  "academicTitle": "Soutien scolaire",
+  "academicText": "Un appui pour les élèves afin de consolider leurs acquis.",
+  "academicItems": [
+   {
+    "t": "Primaire",
+    "d": "Soutien pour les élèves du cycle primaire."
+   },
+   {
+    "t": "Moyen",
+    "d": "Soutien pour les élèves du cycle moyen."
+   },
+   {
+    "t": "Secondaire",
+    "d": "Soutien pour les lycéens."
+   }
+  ],
+  "note": "Les matières, groupes et places disponibles dépendent du programme en cours. Les tarifs varient selon le programme et le niveau : contactez l'académie pour les connaître."
+ },
+ "register": {
+  "title": "Inscription",
+  "intro": "Remplissez le formulaire. L'académie vous contactera pour confirmer les disponibilités.",
+  "selected": "Programme choisi",
+  "program": {
+   "quran": "Enseignement du Coran",
+   "academic": "Soutien scolaire"
+  },
+  "fullName": "Nom complet",
+  "studentName": "Nom de l'élève",
+  "parentName": "Nom du parent",
+  "phone": "Téléphone",
+  "email": "E-mail",
+  "wilaya": "Wilaya / Ville",
+  "age": "Catégorie d'âge",
+  "level": "Niveau actuel",
+  "goal": "Objectif",
+  "stage": "Cycle scolaire",
+  "grade": "Classe / Année",
+  "subjects": "Matières souhaitées",
+  "notes": "Informations complémentaires",
+  "optional": "facultatif",
+  "choose": "Choisir…",
+  "submit": "Envoyer ma demande",
+  "sending": "Envoi en cours…",
+  "errRequired": "Ce champ est obligatoire.",
+  "errPhone": "Entrez un numéro de téléphone valide.",
+  "errEmail": "Entrez une adresse e-mail valide.",
+  "okTitle": "Demande envoyée",
+  "okText": "Merci. L'académie vous contactera bientôt pour confirmer les détails.",
+  "fail": "L'envoi a échoué. Vérifiez votre connexion et réessayez, ou contactez l'académie directement.",
+  "opt": {
+   "child": "Enfant",
+   "teen": "Adolescent",
+   "adult": "Adulte",
+   "senior": "Senior",
+   "beginner": "Débutant",
+   "intermediate": "Intermédiaire",
+   "advanced": "Avancé",
+   "reading": "Lecture",
+   "memorization": "Mémorisation",
+   "tajweed": "Tajwid",
+   "other": "Autre",
+   "primary": "Primaire",
+   "middle": "Moyen",
+   "high": "Secondaire"
+  }
+ },
+ "contact": {
+  "title": "Contact",
+  "intro": "Écrivez-nous pour connaître les disponibilités, les groupes et les tarifs.",
+  "phone": "Téléphone",
+  "email": "E-mail",
+  "address": "Adresse",
+  "soon": "À renseigner",
+  "cta": "Faire une demande d'inscription",
+  "mapTitle": "Carte de localisation",
+  "mapSoon": "La carte s'affichera ici une fois l'adresse configurée."
+ },
+ "footer": {
+  "about": "Académie d'enseignement du Coran et de soutien scolaire en Algérie.",
+  "links": "Liens rapides",
+  "quran": "Enseignement du Coran",
+  "academic": "Soutien scolaire",
+  "soon": "À renseigner",
+  "rights": "Tous droits réservés."
+ }
+}

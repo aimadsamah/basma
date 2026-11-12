@@ -1,0 +1,25 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+:root {
+  --bg: #F8F5ED; --surface: #EDE5D5; --card: #FFFFFF; --ink: #0B3D2E; --muted: #4B5F57;
+  --primary: #064E3B; --on-primary: #F8F5ED; --gold: #C6A15B; --line: #D9CFB9;
+}
+.dark {
+  --bg: #07130F; --surface: #0B1F18; --card: #0E2820; --ink: #F3EEDF; --muted: #A9B8B0;
+  --primary: #0F7A5A; --on-primary: #F8F5ED; --gold: #C6A15B; --line: #1C3A2F;
+}
+@theme inline {
+  --color-bg: var(--bg); --color-surface: var(--surface); --color-card: var(--card);
+  --color-ink: var(--ink); --color-muted: var(--muted); --color-primary: var(--primary);
+  --color-onprimary: var(--on-primary); --color-gold: var(--gold); --color-line: var(--line);
+  --font-sans: var(--font-latin), system-ui, sans-serif;
+}
+html[lang="ar"] { --font-sans: var(--font-arabic), system-ui, sans-serif; }
+body { background: var(--bg); color: var(--ink); font-family: var(--font-sans); transition: background-color .3s, color .3s; line-height: 1.7; }
+html[lang="ar"] body { line-height: 1.95; }
+*:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; }
+.geo {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='72' height='72' fill='none' stroke='%23C6A15B' stroke-width='1'%3E%3Cpath d='M36 4l8 20 20-8-8 20 20 8-20 8 8 20-20-8-8 20-8-20-20 8 8-20-20-8 20-8-8-20 20 8z'/%3E%3C/svg%3E");
+  background-size: 72px;
+}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
